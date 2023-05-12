@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://singaporeangkaternew.github.io/sitemap.xml
